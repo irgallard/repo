@@ -1,7 +1,7 @@
-# repo
+# Repo
 
 Some description!
 
-## SUbheader
+## Subheader
 
-Watch tutorial on YT!
+Watch tutorial on YT! And subscribe
